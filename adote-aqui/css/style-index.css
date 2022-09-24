@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Menu*/
+
+.container-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.opcoes-menu {
+    margin: 8px;
+    
+}
